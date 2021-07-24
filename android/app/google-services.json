@@ -1,0 +1,32 @@
+{
+  "project_info": {
+    "project_number": "30124678010",
+    "firebase_url": "https://catatan-harian-f16d5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "catatan-harian-f16d5",
+    "storage_bucket": "catatan-harian-f16d5.appspot.com"
+  },
+  "client": [{
+    "client_info": {
+      "mobilesdk_app_id": "1:30124678010:android:c5aebb63938611cc50d4c3",
+      "android_client_info": {
+        "package_name": "com.thomas19sa1247.catatan_harian"
+      }
+    },
+    "oauth_client": [{
+      "client_id": "30124678010-l8r5apurfei3h3nf0m0348c7f4cc0iuc.apps.googleusercontent.com",
+      "client_type": 3
+    }],
+    "api_key": [{
+      "current_key": "AIzaSyAK2dmirrLKISMVvE_x9JLr25SmSuoG_zA"
+    }],
+    "services": {
+      "appinvite_service": {
+        "other_platform_oauth_client": [{
+          "client_id": "30124678010-l8r5apurfei3h3nf0m0348c7f4cc0iuc.apps.googleusercontent.com",
+          "client_type": 3
+        }]
+      }
+    }
+  }],
+  "configuration_version": "1"
+}
